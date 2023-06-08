@@ -4,12 +4,13 @@
 ## Hi there!
 I’m Mike Lee, a bioinformatician with [NASA GeneLab](https://genelab.nasa.gov/) and a research scientist with [Blue Marble Space Institute of Science](https://www.bmsis.org/) located at NASA’s Ames Research Center in northern California, USA. I focus primarily on microbial ecology and evolution in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽
 
+If interested, you can find publications here: [microbialomics.org/research](https://microbialomics.org/research) 🙂
+
 [astrobiomike.github.io](https://astrobiomike.github.io) <- bioinformatics for beginners  
 [GToTree](https://github.com/AstrobioMike/GToTree/wiki) <- phylogenomics for all  
 [Twitter](https://twitter.com/astrobiomike)  
 [Google Scholar](https://scholar.google.com/citations?user=-ONw6lsAAAAJ&hl)
 
-You can find publications here: [microbialomics.org/research](https://microbialomics.org/research)
 
 ---
 
