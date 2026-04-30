@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mike Lee's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 379, Total Commits  : 2724, Total PRs: 148, Total PRs Reviewed: 2, Total Issues: 63, Total Discussions Answered: 0, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 379, Total Commits  : 2709, Total PRs: 148, Total PRs Reviewed: 2, Total Issues: 63, Total Discussions Answered: 0, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.133289105188105;
+        stroke-dashoffset: 39.1995503060419;
       }
     }
   
