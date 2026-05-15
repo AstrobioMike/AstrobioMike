@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="231.76999999999998"
           y="0"
-          width="19.16"
+          width="19.15"
           height="8"
           fill="#89e051"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.92999999999998"
+          x="240.92"
           y="0"
           width="15.7"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.62999999999997"
+          x="246.61999999999998"
           y="0"
           width="11.44"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.06999999999996"
+          x="248.05999999999997"
           y="0"
           width="10.93"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.99999999999997"
+          x="248.98999999999998"
           y="0"
           width="10.87"
           height="8"
@@ -208,7 +208,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.86999999999998"
+          x="249.85999999999999"
           y="0"
           width="10.06"
           height="8"
@@ -218,7 +218,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.92999999999998"
+          x="249.92"
           y="0"
           width="10.04"
           height="8"
@@ -228,7 +228,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.96999999999997"
+          x="249.95999999999998"
           y="0"
           width="10.02"
           height="8"
@@ -238,7 +238,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.98999999999998"
+          x="249.98"
           y="0"
           width="10"
           height="8"
