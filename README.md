@@ -1,19 +1,6 @@
-<!--
-[![Mike Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=astrobiomike&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-# above stopped working, below is from https://github.com/stats-organization/github-readme-stats-action
--->
+[![Mike Lee's GitHub Stats](https://github-stats-extended.vercel.app/api?username=astrobiomike&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
-
-
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Mike Lee's Github stats" />
-</a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Mike Lee's Language stats" />
-</a> -->
-</div>
 
 ## Hi there!
 I’m Mike Lee, a bioinformatician with [NASA GeneLab](https://genelab.nasa.gov/) and a research scientist with [Blue Marble Space Institute of Science](https://www.bmsis.org/) located at NASA’s Ames Research Center in northern California, USA. I focus primarily on microbial ecology and evolution in all kinds of different systems ranging from the bottoms of our oceans up to the International Space Station 👽
